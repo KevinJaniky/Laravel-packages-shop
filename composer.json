@@ -1,0 +1,18 @@
+{
+    "name": "kjaniky/shop",
+    "type": "project",
+    "version": "1.0.0",
+    "authors": [{
+        "name": "KevinJaniky",
+        "email": "kevin.janiky@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kjaniky\\Shop\\ShopServiceProvider"
+            ]
+        }
+    }
+}
